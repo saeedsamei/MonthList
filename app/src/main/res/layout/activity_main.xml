@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:text="First quarter"
         android:textStyle="bold"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textColor="#f40707" />
     <View
         android:layout_width = "match_parent"
@@ -103,7 +103,7 @@
         android:layout_height="wrap_content"
         android:text="Second quarter"
         android:textStyle="bold"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textColor="#f40707" />
     <View
         android:layout_width = "match_parent"
